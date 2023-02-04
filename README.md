@@ -1,3 +1,3 @@
 # LinkTree C
 
-> LinkTree clone
+> LinkTree test application

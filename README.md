@@ -1,3 +1,3 @@
 # LinkTree C
 
-> LinkTree test application.
+> LinkTree test application
